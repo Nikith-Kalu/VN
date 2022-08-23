@@ -1,0 +1,16 @@
+{
+    "uid": "07DD30D15041E0DE",
+    "lastModificationTime": null,
+    "items": {
+        "name": "Live2D Test",
+        "type": "project",
+        "version": "1.0.1112",
+        "gameTitle": "Live2D Test"
+    },
+    "summary": [
+        "name",
+        "type",
+        "version"
+    ],
+    "externalItems": []
+}
